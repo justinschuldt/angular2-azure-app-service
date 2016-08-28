@@ -1,0 +1,4 @@
+angular2-azure-app-service
+node_modules
+typings
+**/*.js.map

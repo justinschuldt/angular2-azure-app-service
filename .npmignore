@@ -1,0 +1,9 @@
+angular2-azure-app-service
+gulpfile.js
+.gitignore
+.npmignore
+tsconfig.json
+tslint.json
+typings
+typings.json
+.editorconfig
